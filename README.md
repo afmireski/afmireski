@@ -4,13 +4,14 @@ Hi 👋 My name is André Felipe Mireski
 Back-End Developer
 ------------------
 
-Atualmente sou estudante do curso de Bacharelado em Ciências da Computação pele UTFPR. Tenho grande paixão pelo Back-End, possuindo conhecimentos em Java e C, mas me destacando mais com trabalhos em Typescript e NodeJS. Também possuo conhecimentos básicos em HTML, CSS e Flutter.
+I'm currently studying for a Bachelor's degree in Computer Science at Federal University of Tecnology Paraná. I have a great passion for Back-End area, with knowledge of Java and C, but I excel most in Typescript and NodeJS. I also have basic knowledge of HTML, CSS and Flutter.
 
-*   🧠  I'm learning NestJS, Rust.
+*   🧠  I'm learning NestJS, Go.
 
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
