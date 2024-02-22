@@ -6,7 +6,7 @@ Back-End Developer
 
 I'm currently studying for a Bachelor's degree in Computer Science at Federal University of Tecnology Paraná. I have a great passion for Back-End area, with knowledge of Java and C, but I excel most in Typescript and NodeJS. I also have basic knowledge of HTML, CSS and Flutter.
 
-*   🧠  I'm learning NestJS, Go.
+*   🧠  I'm learning Rust, Go.
 
 ### Skills 
 <p align="left">
